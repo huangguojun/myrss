@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Kitware Inc" title="Blog – Kitware Inc" type="rss" 
+            xmlUrl="https://www.kitware.com/blog/feed" htmlUrl="https://www.kitware.com"/>
+      <outline text="SuSu&#39;s Share " title="SuSu&#39;s Share " type="rss" 
+            xmlUrl="https://susuifa.com/?feed=rss2" htmlUrl="https://susuifa.com"/>
+      <outline text="ELISA" title="ELISA" type="rss" 
+            xmlUrl="https://elisa.tech/feed/"/>
+      <outline text="system76" title="Untitled feed" type="rss" 
+            xmlUrl="https://blog.system76.com/rss" htmlUrl="https://blog.system76.com/"/>
+      <outline text="Ultrasound Toolbox" title="Ultrasound Toolbox" type="rss" 
+            xmlUrl="http://www.ustb.no/feed/" htmlUrl="http://www.ustb.no"/>
+      <outline text="SonoVol, Inc." title="SonoVol, Inc." type="rss" 
+            xmlUrl="https://sonovol.com//feed" htmlUrl="https://sonovol.com/"/>
+      <outline text="Kodi News" title="Kodi News" type="rss" 
+            xmlUrl="https://kodi.tv/rss.xml" htmlUrl="https://kodi.tv"/>
+      <outline text="openSUSE News" title="openSUSE News" type="rss" 
+            xmlUrl="https://news.opensuse.org/feed/" htmlUrl="https://news.opensuse.org"/>
+      <outline text="Open Collective" title="Open Collective" type="rss" 
+            xmlUrl="https://blog.opencollective.com/rss/" htmlUrl="https://blog.opencollective.com/"/>
+      <outline text="FAST" title="FAST" type="rss" 
+            xmlUrl="https://www.eriksmistad.no/feed/" htmlUrl="https://www.eriksmistad.no"/>
+      <outline text="Viking Software" title="Viking Software" type="rss" 
+            xmlUrl="https://www.vikingsoftware.com/feed/" htmlUrl="https://www.vikingsoftware.com"/>
+      <outline text="ImFusion" title="ImFusion" type="rss" 
+            xmlUrl="https://www.imfusion.com/?format=feed&amp;type=rss" htmlUrl="https://www.imfusion.com/"/>
+      <outline text="KaOS" title="KaOS" type="rss" 
+            xmlUrl="https://kaosx.us/feed.xml" htmlUrl="http://kaosx.us/"/>
+      <outline text="MedFloss" title="MedFloss" type="rss" 
+            xmlUrl="https://www.medfloss.org/rss.xml" htmlUrl="https://www.medfloss.org"/>
+      <outline text="medInria" title="medInria" type="rss" 
+            xmlUrl="https://med.inria.fr/?format=feed&amp;type=rss" htmlUrl="https://med.inria.fr/component/content/?view=featured"/>
+      <outline text="MauiKit" title="MauiKit" type="rss" 
+            xmlUrl="https://mauikit.org/blog//feed" htmlUrl="https://mauikit.org/blog/"/>
+      <outline text="POCO C++ Libraries Blog" title="POCO C++ Libraries Blog" type="rss" 
+            xmlUrl="https://pocoproject.org/blog/?feed=rss2" htmlUrl="https://pocoproject.org/blog"/>
+</body>
+</opml>
